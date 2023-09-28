@@ -1,0 +1,44 @@
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win\bin\Debug\magic_win.exe.config
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win\bin\Debug\magic_win.exe
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win\bin\Debug\magic_win.pdb
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win\obj\Debug\magic_win.csproj.AssemblyReference.cache
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win\obj\Debug\magic_win.csproj.SuggestedBindingRedirects.cache
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win\obj\Debug\magic_win.Form1.resources
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win\obj\Debug\magic_win.Properties.Resources.resources
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win\obj\Debug\magic_win.csproj.GenerateResource.cache
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win\obj\Debug\magic_win.csproj.CoreCompileInputs.cache
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win\obj\Debug\magic_win.exe
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win\obj\Debug\magic_win.pdb
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win - 红色框 - 副本\bin\Debug\magic_win.exe.config
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win - 红色框 - 副本\bin\Debug\magic_win.exe
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win - 红色框 - 副本\bin\Debug\magic_win.pdb
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win - 红色框 - 副本\obj\Debug\magic_win.csproj.AssemblyReference.cache
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win - 红色框 - 副本\obj\Debug\magic_win.csproj.SuggestedBindingRedirects.cache
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win - 红色框 - 副本\obj\Debug\magic_win.Form1.resources
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win - 红色框 - 副本\obj\Debug\magic_win.Properties.Resources.resources
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win - 红色框 - 副本\obj\Debug\magic_win.csproj.GenerateResource.cache
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win - 红色框 - 副本\obj\Debug\magic_win.csproj.CoreCompileInputs.cache
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win - 红色框 - 副本\obj\Debug\magic_win.exe
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win - 红色框 - 副本\obj\Debug\magic_win.pdb
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win - 0.92\bin\Debug\magic_win.exe.config
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win - 0.92\bin\Debug\magic_win.exe
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win - 0.92\bin\Debug\magic_win.pdb
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win - 0.92\obj\Debug\magic_win.csproj.AssemblyReference.cache
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win - 0.92\obj\Debug\magic_win.csproj.SuggestedBindingRedirects.cache
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win - 0.92\obj\Debug\magic_win.Form1.resources
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win - 0.92\obj\Debug\magic_win.Properties.Resources.resources
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win - 0.92\obj\Debug\magic_win.csproj.GenerateResource.cache
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win - 0.92\obj\Debug\magic_win.csproj.CoreCompileInputs.cache
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win - 0.92\obj\Debug\magic_win.exe
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win - 0.92\obj\Debug\magic_win.pdb
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win - 0.94\bin\Debug\magic_win.exe.config
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win - 0.94\bin\Debug\magic_win.exe
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win - 0.94\bin\Debug\magic_win.pdb
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win - 0.94\obj\Debug\magic_win.csproj.AssemblyReference.cache
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win - 0.94\obj\Debug\magic_win.csproj.SuggestedBindingRedirects.cache
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win - 0.94\obj\Debug\magic_win.Form1.resources
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win - 0.94\obj\Debug\magic_win.Properties.Resources.resources
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win - 0.94\obj\Debug\magic_win.csproj.GenerateResource.cache
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win - 0.94\obj\Debug\magic_win.csproj.CoreCompileInputs.cache
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win - 0.94\obj\Debug\magic_win.exe
+F:\Program_code\Microsoft_Visual_Studio\Visual_Studio\magic_win - 0.94\obj\Debug\magic_win.pdb
